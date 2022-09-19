@@ -25,7 +25,7 @@ export function Home() {
   }
 
   useEffect(()=>{
-   axios.get('http://192.168.1.25:3333/games').then(
+   axios.get('http://192.168.1.27:3333/games').then(
       response =>setGames(response.data)
    
    )},[])

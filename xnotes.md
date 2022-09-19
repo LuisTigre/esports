@@ -45,6 +45,10 @@ expo install react-native-screens
 
 npm install @react-navigation/native-stack
 
+# Installing phospor icons in react native
+
+npm install --save phosphor-react-native
+
 ` Do not use below instructions`
 expo install react-native-area-context
 
