@@ -33,6 +33,18 @@ npx expo install expo-font @expo-google-fonts/inter
 npm install react-native-safe-area-context
 expo install expo-linear-gradient
 
+# To install react-navigation
+
+npm install @react-navigation/native
+
+# React Native Screens
+
+expo install react-native-screens
+
+# Installing native stack navigator library
+
+npm install @react-navigation/native-stack
+
 ` Do not use below instructions`
 expo install react-native-area-context
 
