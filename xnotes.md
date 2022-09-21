@@ -53,6 +53,16 @@ npm i phosphor-react-native
 
 npm install --save phosphor-react-native
 
+# clipboard copies from transference area to ...
+
+expo install expo-clipboard
+
+# How to install notification
+
+npx expo install expo-notification
+
+expo install expo-modules-core
+
 ` Do not use below instructions`
 expo install react-native-area-context
 
